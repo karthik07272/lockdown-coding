@@ -5,7 +5,7 @@ string2=input('Enter the 2nd string: ')
 n1=len(string1)
 n2=len(string2)
 if n1!=n2:
-	print('Given strings are not angram to each other')
+	print('Given strings ar not angram to each other')
 else:
     a=sorted(string1)
     b=sorted(string2)
