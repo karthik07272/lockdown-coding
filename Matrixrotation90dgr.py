@@ -50,4 +50,4 @@ print(matrix)
 rmat=np.rot90(matrix)
 print('Matrix After Rotation Of 90 Degree: ')
 print(rmat)
-© 2020 GitH
+
